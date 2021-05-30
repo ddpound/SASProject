@@ -1,0 +1,71 @@
+@charset "UTF-8";
+body{
+	background-color: gray;
+}
+
+
+.MainDiv{
+	margin-left : 35%;
+	margin-top: 10%;
+	height:100%;
+}
+
+.joinBox{
+	width: 400px;
+	height: 200px;
+	margin-top: 100px;
+	margin-bottom: 40%;
+	margin-left: 40%;
+	border: 10px #000 solid;
+	border-radius: 30px; 
+}
+
+.joinBox form{
+	width: 400px;
+	height: 200px;
+}
+
+.joinBox form input{
+	margin-top: 10px;
+	margin-left: 20px;
+	background-color: #000;
+	color: white;
+	
+}
+
+
+.joinBox form button{
+	width : 140px;
+	height: 35px;
+	margin-left: 50%;
+	margin-bottom: 20%px;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+}
+
+.joinBox form button:active{
+	color: orange;
+	
+}
+
+.BoardBox{
+	width: 1000px;
+	height: 800px;
+	margin-top: 100px;
+	margin-bottom: 40%;
+	margin-left: 25%;
+	border: 10px #000 solid;
+	border-radius: 30px; 
+}
+
+.BoardBox form{
+	width: 400px;
+	height: 200px;
+}
+
+
+
+
+
+	
